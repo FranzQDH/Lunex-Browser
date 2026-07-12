@@ -2,7 +2,7 @@
 
 A modern, privacy-focused web browser built with speed, simplicity and customization in mind.
 
-> **Current Version:** v0.3 *(Early Development)*
+> **Current Version:** v0.8.12 *(Development)*
 
 ---
 
